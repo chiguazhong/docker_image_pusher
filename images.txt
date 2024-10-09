@@ -1,5 +1,5 @@
 grafana/grafana
-
+prom/prometheus:v2.43.0
 #支持私库
 opengrok/docker
 

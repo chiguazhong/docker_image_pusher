@@ -1,1 +1,1 @@
-metersphere/mysql:8.0.38
+registry.cn-qingdao.aliyuncs.com/metersphere/mysql:8.0.38

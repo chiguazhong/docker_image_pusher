@@ -1,5 +1,6 @@
 grafana/grafana
 prom/prometheus:v2.43.0
+metersphere/mysql:8.0.38
 #支持私库
 opengrok/docker
 
